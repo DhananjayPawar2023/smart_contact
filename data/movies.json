@@ -1,0 +1,62 @@
+[
+  {
+    "imdbID": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "poster": "posters/1.svg"
+  },
+  {
+    "imdbID": "tt0068646",
+    "title": "The Godfather",
+    "year": "1972",
+    "poster": "posters/2.svg"
+  },
+  {
+    "imdbID": "tt0468569",
+    "title": "The Dark Knight",
+    "year": "2008",
+    "poster": "posters/3.svg"
+  },
+  {
+    "imdbID": "tt1375666",
+    "title": "Inception",
+    "year": "2010",
+    "poster": "posters/4.svg"
+  },
+  {
+    "imdbID": "tt0816692",
+    "title": "Interstellar",
+    "year": "2014",
+    "poster": "posters/5.svg"
+  },
+  {
+    "imdbID": "tt0120338",
+    "title": "Titanic",
+    "year": "1997",
+    "poster": "posters/6.svg"
+  },
+  {
+    "imdbID": "tt1187043",
+    "title": "3 Idiots",
+    "year": "2009",
+    "poster": "posters/7.svg"
+  },
+  {
+    "imdbID": "tt4154796",
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "poster": "posters/8.svg"
+  },
+  {
+    "imdbID": "tt5074352",
+    "title": "Dangal",
+    "year": "2016",
+    "poster": "posters/9.svg"
+  },
+  {
+    "imdbID": "tt2631186",
+    "title": "Bahubali: The Beginning",
+    "year": "2015",
+    "poster": "posters/10.svg"
+  }
+]

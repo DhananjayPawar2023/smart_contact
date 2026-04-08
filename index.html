@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decentralized Movie Rating System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="hero">
+            <div class="hero-copy">
+                <p class="eyebrow">College Mini Project</p>
+                <h1>Decentralized Movie Rating System</h1>
+                <p class="subtitle">Simple demo UI for presentation. Real smart contract testing is done in Remix VM only.</p>
+            </div>
+            <div class="hero-panel">
+                <h2>Quick Flow</h2>
+                <p>1. Deploy in Remix VM</p>
+                <p>2. Add movie</p>
+                <p>3. Switch account</p>
+                <p>4. Rate movie and check average</p>
+            </div>
+        </header>
+
+        <section class="card info-grid">
+            <div class="info-box">
+                <h2>About</h2>
+                <p>This UI is for showing your project in class. It demonstrates how the movie catalog can look.</p>
+            </div>
+            <div class="info-box">
+                <h2>Testing</h2>
+                <p>Use only <strong>Remix VM (London)</strong> for actual smart contract execution. No MetaMask is required.</p>
+            </div>
+            <div class="info-box">
+                <h2>Smart Contract</h2>
+                <p>The contract handles add movie, rating, duplicate prevention, and average rating calculation.</p>
+            </div>
+        </section>
+
+        <section class="card">
+            <div class="section-head">
+                <div>
+                    <h2>Movie Demo UI</h2>
+                    <p class="section-note">Visual demo only. Click stars to simulate frontend interaction.</p>
+                </div>
+                <button id="resetDemoBtn">Reset Demo Ratings</button>
+            </div>
+            <div id="movieList" class="movie-grid">Loading movies...</div>
+        </section>
+
+        <section class="card two-col">
+            <div>
+                <h2>Remix Demo Steps</h2>
+                <div class="result-box">
+1. Open Remix IDE.
+2. Deploy the smart contract in Remix VM (London).
+3. Call <code>addMovie("Inception", "A science fiction thriller")</code>.
+4. Call <code>getMovie(1)</code>.
+5. Rate using Account 1 with <code>rateMovie(1, 5)</code>.
+6. Switch to Account 2 and call <code>rateMovie(1, 4)</code>.
+7. Call <code>getAverageRating(1)</code>.
+8. Try rating again from the same account to show duplicate prevention.
+                </div>
+            </div>
+            <div>
+                <h2>Status</h2>
+                <div id="statusMessage" class="result-box">Demo UI ready. No ethers.js is required for this version.</div>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

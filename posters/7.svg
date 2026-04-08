@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <rect width="300" height="450" fill="#1e293b"/>
+  <circle cx="90" cy="110" r="40" fill="#f59e0b"/>
+  <circle cx="150" cy="110" r="40" fill="#38bdf8"/>
+  <circle cx="210" cy="110" r="40" fill="#f43f5e"/>
+  <text x="74" y="250" fill="#ffffff" font-size="50" font-family="Arial" font-weight="bold">3</text>
+  <text x="116" y="250" fill="#ffffff" font-size="34" font-family="Arial" font-weight="bold">IDIOTS</text>
+  <text x="38" y="344" fill="#e2e8f0" font-size="18" font-family="Arial">Friendship over pressure</text>
+</svg>

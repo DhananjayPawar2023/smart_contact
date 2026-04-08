@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#g)"/>
+  <circle cx="150" cy="110" r="54" fill="#7f1d1d" opacity="0.65"/>
+  <text x="34" y="220" fill="#f9fafb" font-size="34" font-family="Arial" font-weight="bold">THE</text>
+  <text x="34" y="265" fill="#f9fafb" font-size="34" font-family="Arial" font-weight="bold">GODFATHER</text>
+  <text x="34" y="362" fill="#d1d5db" font-size="18" font-family="Arial">Power. Family. Legacy.</text>
+</svg>

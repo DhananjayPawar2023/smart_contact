@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <rect width="300" height="450" fill="#0f172a"/>
+  <rect x="0" y="0" width="300" height="200" fill="#111827"/>
+  <polygon points="150,40 210,180 90,180" fill="#f5c518"/>
+  <text x="28" y="280" fill="#f8fafc" font-size="32" font-family="Arial" font-weight="bold">THE DARK</text>
+  <text x="28" y="322" fill="#f8fafc" font-size="32" font-family="Arial" font-weight="bold">KNIGHT</text>
+  <text x="28" y="382" fill="#93c5fd" font-size="18" font-family="Arial">Gotham needs a hero</text>
+</svg>

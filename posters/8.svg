@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <rect width="300" height="450" fill="#111827"/>
+  <circle cx="150" cy="115" r="68" fill="#7c3aed" opacity="0.35"/>
+  <text x="42" y="255" fill="#ffffff" font-size="32" font-family="Arial" font-weight="bold">AVENGERS:</text>
+  <text x="42" y="298" fill="#ffffff" font-size="32" font-family="Arial" font-weight="bold">ENDGAME</text>
+  <text x="62" y="368" fill="#c4b5fd" font-size="18" font-family="Arial">One last battle</text>
+</svg>
