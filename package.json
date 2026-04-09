@@ -4,11 +4,12 @@
   "description": "A blockchain-based movie rating application",
   "main": "app.js",
   "scripts": {
-    "start": "lite-server",
+    "start": "node server.js",
+    "dev": "lite-server",
     "build": "echo 'No build step defined'"
   },
   "dependencies": {
-    "ethers": "^5.7.0"
+    "ethers": "^5.8.0"
   },
   "devDependencies": {
     "lite-server": "^2.6.1"
